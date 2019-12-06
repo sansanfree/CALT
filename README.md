@@ -1,5 +1,5 @@
 # CALT
-Contour-Aware Long-term Tracking with Reliable Re- detection(TCSVT)
+Contour-Aware Long-term Tracking with Reliable Re-detection(TCSVT)
 
 Code for the CALT proposed in the paper Contour-Aware Long-term Tracking with Reliable Re- detection
 
