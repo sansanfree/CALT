@@ -5,7 +5,7 @@ Code for the CALT proposed in the paper Contour-Aware Long-term Tracking with Re
 
 ***----CALT master-------***
 
-The CALT tracker is based on the MCCT-H and Staple, The tracker with hand-crafted features is in the sub file CALT master.
+The CALT tracker with hand-crafted features is in the sub file CALT master.
 just start Matlab and run the runTracker.m.
 
 ***----Example：integrating proposed re-detection module into some other DCF based trackers-------***
