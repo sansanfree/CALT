@@ -3,12 +3,14 @@ Contour-Aware Long-term Tracking with Reliable Re-detection(TCSVT)
 
 Code for the CALT proposed in the paper Contour-Aware Long-term Tracking with Reliable Re- detection
 
-***----CALT master-------****
+***----CALT master-------***
 
 The CALT tracker is based on the MCCT-H and Staple, The tracker with hand-crafted features is in the sub file CALT master.
 just start Matlab and run the runTracker.m.
 
-
+***----Example：integrating proposed re-detection module into some other DCF based trackers-------***
+Example: MCCT-H(CVPR2018), Staple(CVPR2016),DSST(BMVC2014).
+this part will come soon!
 
 ### Acknowledgments
 
