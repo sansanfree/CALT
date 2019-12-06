@@ -10,7 +10,7 @@ just start Matlab and run the runTracker.m.
 
 
 
-# Acknowledgments
+## Acknowledgments
 
 Some codes of this work are adopted from previous trackers (Staple, MCCT-H).
 
