@@ -10,7 +10,7 @@ just start Matlab and run the runTracker.m.
 
 
 
-#Acknowledgments
+# Acknowledgments
 
 Some codes of this work are adopted from previous trackers (Staple, MCCT-H).
 L. Bertinetto, J. Valmadre, S. Golodetz, O. Miksik, and P. Torr. "Staple: Complementary learners for real-time tracking," In CVPR, 2016.
