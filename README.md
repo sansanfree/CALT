@@ -9,6 +9,7 @@ The CALT tracker is based on the MCCT-H and Staple, The tracker with hand-crafte
 just start Matlab and run the runTracker.m.
 
 ***----Example：integrating proposed re-detection module into some other DCF based trackers-------***
+
 Example: MCCT-H(CVPR2018), Staple(CVPR2016),DSST(BMVC2014).
 this part will come soon!
 
